@@ -1,4 +1,4 @@
-const API_URL = "http://localhost:5000";
+const API_URL = "https://striking-wisdom-production-43c9.up.railway.app";
 
 function getToken() {
   return localStorage.getItem("accessToken");
