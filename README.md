@@ -32,7 +32,7 @@ Built to demonstrate real-world backend + frontend integration using modern web 
 
 
 ## Project Structure
-
+```
 Task-Management-System/
 │
 ├── backend/
@@ -49,7 +49,7 @@ Task-Management-System/
 │ ├── index.html
 │ ├── login.html
 │ └── register.html
-
+```
 ## ⚙️ Setup Instructions
 
 1. Clone the repository  
